@@ -1,0 +1,11 @@
+C:\Users\DHINESH\Documents\Visual Studio 2010\Projects\student data base\student data base\bin\Debug\student data base.exe.config
+C:\Users\DHINESH\Documents\Visual Studio 2010\Projects\student data base\student data base\bin\Debug\student.mdb
+C:\Users\DHINESH\Documents\Visual Studio 2010\Projects\student data base\student data base\bin\Debug\student data base.exe
+C:\Users\DHINESH\Documents\Visual Studio 2010\Projects\student data base\student data base\bin\Debug\student data base.pdb
+C:\Users\DHINESH\Documents\Visual Studio 2010\Projects\student data base\student data base\bin\Debug\student data base.xml
+C:\Users\DHINESH\Documents\Visual Studio 2010\Projects\student data base\student data base\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\DHINESH\Documents\Visual Studio 2010\Projects\student data base\student data base\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\DHINESH\Documents\Visual Studio 2010\Projects\student data base\student data base\obj\x86\Debug\student data base.vbproj.GenerateResource.Cache
+C:\Users\DHINESH\Documents\Visual Studio 2010\Projects\student data base\student data base\obj\x86\Debug\student data base.exe
+C:\Users\DHINESH\Documents\Visual Studio 2010\Projects\student data base\student data base\obj\x86\Debug\student data base.xml
+C:\Users\DHINESH\Documents\Visual Studio 2010\Projects\student data base\student data base\obj\x86\Debug\student data base.pdb
